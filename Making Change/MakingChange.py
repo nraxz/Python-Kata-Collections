@@ -7,4 +7,4 @@ def making_change(n):
             n = n % x
         else:
             print(x,'s: ', int(n / x))
-making_change(73)
+making_change(0)
